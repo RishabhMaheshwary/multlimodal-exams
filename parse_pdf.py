@@ -370,13 +370,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--page_start",
         type=int,
-        default=11,
+        default=8,
         help="Start page.",
     )
     parser.add_argument(
         "--page_end",
         type=int,
-        default=19,
+        default=18,
         help="End page.",
     )
     parser.add_argument(

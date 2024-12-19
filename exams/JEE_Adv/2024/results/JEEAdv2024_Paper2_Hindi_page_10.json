@@ -19,27 +19,23 @@
         "context": "no",
         "crops": [
             {
-                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_1.png",
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_10/crop_1.png",
                 "meta": "Q_1"
             },
             {
-                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_2.png",
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_10/crop_2.png",
                 "meta": "O_1"
             },
             {
-                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_3.png",
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_10/crop_3.png",
+                "meta": "O_2"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_10/crop_4.png",
                 "meta": "O_1"
             },
             {
-                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_4.png",
-                "meta": "O_1"
-            },
-            {
-                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_5.png",
-                "meta": "skip"
-            },
-            {
-                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_6.png",
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_10/crop_5.png",
                 "meta": "O_1"
             }
         ]
