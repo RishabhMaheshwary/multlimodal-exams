@@ -1,0 +1,32 @@
+[
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.7",
+        "page_num": 13,
+        "response": "<question_num>Q.7</question_num>\n<question>द्रव्यमान संख्या \\( A_M \\) के एक धनात्मक एकल आयनित (singly ionized) परमाणु को विरामावस्था से, विभवांतर 192 V द्वारा प्रवर्तित किया जाता है जिसके बाद वह एक चुंबकीय क्षेत्र, \\( B_0 = 0.1k \\) Tesla, माप w चौड़ाई के एक आयताकार क्षेत्र में, चिन्हांकित प्रवेश करता है। अंततः वह आयन एक संसूचक (detector) पर अपने अर्धवृत्त पथ से नीचे दूरी x पर करता है।</question>\n<choices>\n(A) \\( H^+ \\) आयन के लिए x का मान 4 cm है।\n(B) \\( A_M = 144 \\) के आयन के लिए x का मान 48 cm है।\n(C) \\( 1 \\leq A_M \\leq 196 \\) के आयनों को संसूचित करने के लिए संसूचक की ऊंचाई \\( (x_1 - x_0) \\) का न्यूनतम मान 55 cm है।\n(D) \\( A_M = 196 \\) के आयन को संसूचित करने के लिए चुंबकीय क्षेत्र वाले आयत की न्यूनतम चौड़ाई w का मान 56 cm है।\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "द्रव्यमान संख्या \\( A_M \\) के एक धनात्मक एकल आयनित (singly ionized) परमाणु को विरामावस्था से, विभवांतर 192 V द्वारा प्रवर्तित किया जाता है जिसके बाद वह एक चुंबकीय क्षेत्र, \\( B_0 = 0.1k \\) Tesla, माप w चौड़ाई के एक आयताकार क्षेत्र में, चिन्हांकित प्रवेश करता है। अंततः वह आयन एक संसूचक (detector) पर अपने अर्धवृत्त पथ से नीचे दूरी x पर करता है।",
+        "options": [
+            "\\( H^+ \\) आयन के लिए x का मान 4 cm है।",
+            "\\( A_M = 144 \\) के आयन के लिए x का मान 48 cm है।",
+            "\\( 1 \\leq A_M \\leq 196 \\) के आयनों को संसूचित करने के लिए संसूचक की ऊंचाई \\( (x_1 - x_0) \\) का न्यूनतम मान 55 cm है।",
+            "\\( A_M = 196 \\) के आयन को संसूचित करने के लिए चुंबकीय क्षेत्र वाले आयत की न्यूनतम चौड़ाई w का मान 56 cm है।"
+        ],
+        "answer": "",
+        "requires_image": "yes",
+        "context": "no",
+        "crops": [
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_15/crop_1.png",
+                "meta": "Q_1"
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.11",
+        "page_num": 15,
+        "response": "<question_num>Q.11</question_num>\n<question>दो समबहु त्रिभुजाकार प्रिज्मों, P₁ एवं P₂ को एक दूसरे की भुजाओं के समानांतर, चित्रानुसार रखा गया है। प्रकाश की एक किरण, प्रिज्म P₁ पर आपतन कोण θ इस तरह से आपातित होती है कि बाहर जाती हुई किरण का प्रिज्म P₂ द्वारा अत्यल्प विचलन (minimum deviation) होता है। यदि P₁ एवं P₂ के अपवर्तनांक, क्रमशः √(3/2) एवं √3 हैं, तो θ = sin⁻¹(√(3/2) sin(π/8)), है, जहाँ ρ का मान _______ है।</question>\n<choices>\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.12</question_num>\n<question>अनंत लम्बाई का एक पतला तार, जिसका एकसमान रेखीय आवेश घनत्व 5 nC/m है, को 1 m त्रिज्या की एक गोलीय सतह को घेरेकर, चित्रानुसार रखा है। गोलीय सतह पर 10 nC आवेश एकसमान रूप से वितरित है। यदि आवेशों का अभिविन्यास स्थिरांक है, तो बिंदुओं P तथा R के बीच के विभवांतर का वोल्ट में परिमाण _______ होगा।</question>\n<choices>\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.13</question_num>\n<question>दाब P₀ = 10⁵ Pa के एक वायु कोश (air chamber) के अंदर किसी त्रिज्या का साबुन का एक गोलाकार बुलबुला है जिसके अंदर अतिरिक्त दाब (excess pressure) ΔP = 144 Pa है। अब कोश का दाब घटाकर 8P₀/27 कर दिया जाता है जिससे बुलबुले की त्रिज्या तथा अतिरिक्त दाब बदल जाते हैं। इस प्रक्रिया में सभी तापमान अपरिवर्तित रहते हैं। वायु को आदर्श गैस मानिये तथा दोनों स्थितियों में अतिरिक्त दाब ΔP का मान कोश दाब से नगण्य मानिये। नए अतिरिक्त दाब ΔP का Pa में मान _______ होगा।</question>\n<choices>\n</choices>\n<image>no</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "दो समबहु त्रिभुजाकार प्रिज्मों, P₁ एवं P₂ को एक दूसरे की भुजाओं के समानांतर, चित्रानुसार रखा गया है। प्रकाश की एक किरण, प्रिज्म P₁ पर आपतन कोण θ इस तरह से आपातित होती है कि बाहर जाती हुई किरण का प्रिज्म P₂ द्वारा अत्यल्प विचलन (minimum deviation) होता है। यदि P₁ एवं P₂ के अपवर्तनांक, क्रमशः √(3/2) एवं √3 हैं, तो θ = sin⁻¹(√(3/2) sin(π/8)), है, जहाँ ρ का मान _______ है।",
+        "options": [],
+        "answer": "",
+        "requires_image": "yes",
+        "context": "no"
+    },
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.12",
+        "page_num": 15,
+        "response": "<question_num>Q.11</question_num>\n<question>दो समबहु त्रिभुजाकार प्रिज्मों, P₁ एवं P₂ को एक दूसरे की भुजाओं के समानांतर, चित्रानुसार रखा गया है। प्रकाश की एक किरण, प्रिज्म P₁ पर आपतन कोण θ इस तरह से आपातित होती है कि बाहर जाती हुई किरण का प्रिज्म P₂ द्वारा अत्यल्प विचलन (minimum deviation) होता है। यदि P₁ एवं P₂ के अपवर्तनांक, क्रमशः √(3/2) एवं √3 हैं, तो θ = sin⁻¹(√(3/2) sin(π/8)), है, जहाँ ρ का मान _______ है।</question>\n<choices>\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.12</question_num>\n<question>अनंत लम्बाई का एक पतला तार, जिसका एकसमान रेखीय आवेश घनत्व 5 nC/m है, को 1 m त्रिज्या की एक गोलीय सतह को घेरेकर, चित्रानुसार रखा है। गोलीय सतह पर 10 nC आवेश एकसमान रूप से वितरित है। यदि आवेशों का अभिविन्यास स्थिरांक है, तो बिंदुओं P तथा R के बीच के विभवांतर का वोल्ट में परिमाण _______ होगा।</question>\n<choices>\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.13</question_num>\n<question>दाब P₀ = 10⁵ Pa के एक वायु कोश (air chamber) के अंदर किसी त्रिज्या का साबुन का एक गोलाकार बुलबुला है जिसके अंदर अतिरिक्त दाब (excess pressure) ΔP = 144 Pa है। अब कोश का दाब घटाकर 8P₀/27 कर दिया जाता है जिससे बुलबुले की त्रिज्या तथा अतिरिक्त दाब बदल जाते हैं। इस प्रक्रिया में सभी तापमान अपरिवर्तित रहते हैं। वायु को आदर्श गैस मानिये तथा दोनों स्थितियों में अतिरिक्त दाब ΔP का मान कोश दाब से नगण्य मानिये। नए अतिरिक्त दाब ΔP का Pa में मान _______ होगा।</question>\n<choices>\n</choices>\n<image>no</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "अनंत लम्बाई का एक पतला तार, जिसका एकसमान रेखीय आवेश घनत्व 5 nC/m है, को 1 m त्रिज्या की एक गोलीय सतह को घेरेकर, चित्रानुसार रखा है। गोलीय सतह पर 10 nC आवेश एकसमान रूप से वितरित है। यदि आवेशों का अभिविन्यास स्थिरांक है, तो बिंदुओं P तथा R के बीच के विभवांतर का वोल्ट में परिमाण _______ होगा।",
+        "options": [],
+        "answer": "",
+        "requires_image": "yes",
+        "context": "no"
+    },
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.13",
+        "page_num": 15,
+        "response": "<question_num>Q.11</question_num>\n<question>दो समबहु त्रिभुजाकार प्रिज्मों, P₁ एवं P₂ को एक दूसरे की भुजाओं के समानांतर, चित्रानुसार रखा गया है। प्रकाश की एक किरण, प्रिज्म P₁ पर आपतन कोण θ इस तरह से आपातित होती है कि बाहर जाती हुई किरण का प्रिज्म P₂ द्वारा अत्यल्प विचलन (minimum deviation) होता है। यदि P₁ एवं P₂ के अपवर्तनांक, क्रमशः √(3/2) एवं √3 हैं, तो θ = sin⁻¹(√(3/2) sin(π/8)), है, जहाँ ρ का मान _______ है।</question>\n<choices>\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.12</question_num>\n<question>अनंत लम्बाई का एक पतला तार, जिसका एकसमान रेखीय आवेश घनत्व 5 nC/m है, को 1 m त्रिज्या की एक गोलीय सतह को घेरेकर, चित्रानुसार रखा है। गोलीय सतह पर 10 nC आवेश एकसमान रूप से वितरित है। यदि आवेशों का अभिविन्यास स्थिरांक है, तो बिंदुओं P तथा R के बीच के विभवांतर का वोल्ट में परिमाण _______ होगा।</question>\n<choices>\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.13</question_num>\n<question>दाब P₀ = 10⁵ Pa के एक वायु कोश (air chamber) के अंदर किसी त्रिज्या का साबुन का एक गोलाकार बुलबुला है जिसके अंदर अतिरिक्त दाब (excess pressure) ΔP = 144 Pa है। अब कोश का दाब घटाकर 8P₀/27 कर दिया जाता है जिससे बुलबुले की त्रिज्या तथा अतिरिक्त दाब बदल जाते हैं। इस प्रक्रिया में सभी तापमान अपरिवर्तित रहते हैं। वायु को आदर्श गैस मानिये तथा दोनों स्थितियों में अतिरिक्त दाब ΔP का मान कोश दाब से नगण्य मानिये। नए अतिरिक्त दाब ΔP का Pa में मान _______ होगा।</question>\n<choices>\n</choices>\n<image>no</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "दाब P₀ = 10⁵ Pa के एक वायु कोश (air chamber) के अंदर किसी त्रिज्या का साबुन का एक गोलाकार बुलबुला है जिसके अंदर अतिरिक्त दाब (excess pressure) ΔP = 144 Pa है। अब कोश का दाब घटाकर 8P₀/27 कर दिया जाता है जिससे बुलबुले की त्रिज्या तथा अतिरिक्त दाब बदल जाते हैं। इस प्रक्रिया में सभी तापमान अपरिवर्तित रहते हैं। वायु को आदर्श गैस मानिये तथा दोनों स्थितियों में अतिरिक्त दाब ΔP का मान कोश दाब से नगण्य मानिये। नए अतिरिक्त दाब ΔP का Pa में मान _______ होगा।",
+        "options": [],
+        "answer": "",
+        "requires_image": "no",
+        "context": "no",
+        "crops": [
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_17/crop_1.png",
+                "meta": "Q_1"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_17/crop_2.png",
+                "meta": "Q_2"
+            }
+        ]
+    }
+]

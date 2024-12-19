@@ -1,0 +1,80 @@
+[
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.2",
+        "page_num": 10,
+        "response": "<question_num>Q.2</question_num>\n<question>द्रव्यमान m का एक कण द्रव्यमान M (≫ m) के एक पिंड के गुरुत्वाकर्षण क्षेत्र के प्रभाव में है। यह कण r₀ त्रिज्या की एक वृत्ताकार कक्षा में M के चारों ओर परिक्रमा कर रहा है। अब कण पर एक अतिरिक्त केंद्रीय बल, जिससे संगत स्थितिज ऊर्जा V(r) = αr/3 है, लगाया जाता है, जहाँ α एक धनात्मक नियतांक है तथा r उसी कक्षा के केंद्र से दूरी है। यदि कण अब उसी त्रिज्या r₀ की कक्षा में M तथा Vc(r) के संयुक्त प्रभाव के अंतर्गत एक नई आवर्तकाल T₁ से परिक्रमा करता है, तो (T₁² - T₂²)/T₁² का मान है, [G गुरुत्वीय नियतांक है।]</question>\n<choices>\n(A) 3α/GM²r₀²\n(B) α/2GM²r₀²\n(C) α/GM²r₀²\n(D) 2α/GM²r₀²\n</choices>\n<image>no</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.3</question_num>\n<question>परमाणु क्रमांक (atomic number) Z = 46 के धातु के एक लक्ष्य (target) पर उच्च ऊर्जा का एक इलेक्ट्रॉन पुंज प्रहार करता है। इस लक्ष्य से उत्सर्ज X-किरणों का विश्लेषण किया जाता है। इसमें Kα-रेखा तथा अंक (cut-off) तरंगदैर्घ्य का अनुपात r = 2 पाया जाता है। वही इलेक्ट्रॉन पुंज यदि Z = 41 की एक दूसरी धातु के लक्ष्य पर प्रहार करे, तो r का मान होगा</question>\n<choices>\n(A) 2.53\n(B) 1.27\n(C) 2.24\n(D) 1.58\n</choices>\n<image>no</image>\n<context>no</context>\n<category>chemistry</category>\n\n<question_num>Q.4</question_num>\n<question>विधुतरोधी परत चढ़े एक धातु के पत्तले एवं कड़े तार को मोड़कर एक वृत्ताकार वलय बनाया जाता है, जिसका दो सिरा बल्ब के दो एक पिंड से उसकी स्पर्श रेखीय दिशा में सीधे निकले हैं। इस वलय का द्रव्यमान m तथा त्रिज्या r है तथा यह एक ऊर्ध्वाधर दिशा में ऊपर की ओर एकसमान चुंबकीय क्षेत्र B₀ में चितांग्रस्त है। आरम्भ में यह तार दो ह्रद चालक संयोग, P और Q, पर गुरुत्वीय बल m के कारण ऊर्ध्वधर लटक रहा है। जब बल्ब में धारा I प्रवाहित की जाती है तो वलय, रेखा PQ के परितः नियतांक दिए कोण θ से घूम जाएगा</question>\n<choices>\n(A) tan θ = πrI/B₀(mg)\n(B) tan θ = 2πrI/B₀(mg)\n(C) tan θ = πrI/B₀(2mg)\n(D) tan θ = mg/(πrI/B₀)\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "द्रव्यमान m का एक कण द्रव्यमान M (≫ m) के एक पिंड के गुरुत्वाकर्षण क्षेत्र के प्रभाव में है। यह कण r₀ त्रिज्या की एक वृत्ताकार कक्षा में M के चारों ओर परिक्रमा कर रहा है। अब कण पर एक अतिरिक्त केंद्रीय बल, जिससे संगत स्थितिज ऊर्जा V(r) = αr/3 है, लगाया जाता है, जहाँ α एक धनात्मक नियतांक है तथा r उसी कक्षा के केंद्र से दूरी है। यदि कण अब उसी त्रिज्या r₀ की कक्षा में M तथा Vc(r) के संयुक्त प्रभाव के अंतर्गत एक नई आवर्तकाल T₁ से परिक्रमा करता है, तो (T₁² - T₂²)/T₁² का मान है, [G गुरुत्वीय नियतांक है।]",
+        "options": [
+            "3α/GM²r₀²",
+            "α/2GM²r₀²",
+            "α/GM²r₀²",
+            "2α/GM²r₀²"
+        ],
+        "answer": "",
+        "requires_image": "no",
+        "context": "no"
+    },
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "chemistry",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.3",
+        "page_num": 10,
+        "response": "<question_num>Q.2</question_num>\n<question>द्रव्यमान m का एक कण द्रव्यमान M (≫ m) के एक पिंड के गुरुत्वाकर्षण क्षेत्र के प्रभाव में है। यह कण r₀ त्रिज्या की एक वृत्ताकार कक्षा में M के चारों ओर परिक्रमा कर रहा है। अब कण पर एक अतिरिक्त केंद्रीय बल, जिससे संगत स्थितिज ऊर्जा V(r) = αr/3 है, लगाया जाता है, जहाँ α एक धनात्मक नियतांक है तथा r उसी कक्षा के केंद्र से दूरी है। यदि कण अब उसी त्रिज्या r₀ की कक्षा में M तथा Vc(r) के संयुक्त प्रभाव के अंतर्गत एक नई आवर्तकाल T₁ से परिक्रमा करता है, तो (T₁² - T₂²)/T₁² का मान है, [G गुरुत्वीय नियतांक है।]</question>\n<choices>\n(A) 3α/GM²r₀²\n(B) α/2GM²r₀²\n(C) α/GM²r₀²\n(D) 2α/GM²r₀²\n</choices>\n<image>no</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.3</question_num>\n<question>परमाणु क्रमांक (atomic number) Z = 46 के धातु के एक लक्ष्य (target) पर उच्च ऊर्जा का एक इलेक्ट्रॉन पुंज प्रहार करता है। इस लक्ष्य से उत्सर्ज X-किरणों का विश्लेषण किया जाता है। इसमें Kα-रेखा तथा अंक (cut-off) तरंगदैर्घ्य का अनुपात r = 2 पाया जाता है। वही इलेक्ट्रॉन पुंज यदि Z = 41 की एक दूसरी धातु के लक्ष्य पर प्रहार करे, तो r का मान होगा</question>\n<choices>\n(A) 2.53\n(B) 1.27\n(C) 2.24\n(D) 1.58\n</choices>\n<image>no</image>\n<context>no</context>\n<category>chemistry</category>\n\n<question_num>Q.4</question_num>\n<question>विधुतरोधी परत चढ़े एक धातु के पत्तले एवं कड़े तार को मोड़कर एक वृत्ताकार वलय बनाया जाता है, जिसका दो सिरा बल्ब के दो एक पिंड से उसकी स्पर्श रेखीय दिशा में सीधे निकले हैं। इस वलय का द्रव्यमान m तथा त्रिज्या r है तथा यह एक ऊर्ध्वाधर दिशा में ऊपर की ओर एकसमान चुंबकीय क्षेत्र B₀ में चितांग्रस्त है। आरम्भ में यह तार दो ह्रद चालक संयोग, P और Q, पर गुरुत्वीय बल m के कारण ऊर्ध्वधर लटक रहा है। जब बल्ब में धारा I प्रवाहित की जाती है तो वलय, रेखा PQ के परितः नियतांक दिए कोण θ से घूम जाएगा</question>\n<choices>\n(A) tan θ = πrI/B₀(mg)\n(B) tan θ = 2πrI/B₀(mg)\n(C) tan θ = πrI/B₀(2mg)\n(D) tan θ = mg/(πrI/B₀)\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "परमाणु क्रमांक (atomic number) Z = 46 के धातु के एक लक्ष्य (target) पर उच्च ऊर्जा का एक इलेक्ट्रॉन पुंज प्रहार करता है। इस लक्ष्य से उत्सर्ज X-किरणों का विश्लेषण किया जाता है। इसमें Kα-रेखा तथा अंक (cut-off) तरंगदैर्घ्य का अनुपात r = 2 पाया जाता है। वही इलेक्ट्रॉन पुंज यदि Z = 41 की एक दूसरी धातु के लक्ष्य पर प्रहार करे, तो r का मान होगा",
+        "options": [
+            "2.53",
+            "1.27",
+            "2.24",
+            "1.58"
+        ],
+        "answer": "",
+        "requires_image": "no",
+        "context": "no"
+    },
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.4",
+        "page_num": 10,
+        "response": "<question_num>Q.2</question_num>\n<question>द्रव्यमान m का एक कण द्रव्यमान M (≫ m) के एक पिंड के गुरुत्वाकर्षण क्षेत्र के प्रभाव में है। यह कण r₀ त्रिज्या की एक वृत्ताकार कक्षा में M के चारों ओर परिक्रमा कर रहा है। अब कण पर एक अतिरिक्त केंद्रीय बल, जिससे संगत स्थितिज ऊर्जा V(r) = αr/3 है, लगाया जाता है, जहाँ α एक धनात्मक नियतांक है तथा r उसी कक्षा के केंद्र से दूरी है। यदि कण अब उसी त्रिज्या r₀ की कक्षा में M तथा Vc(r) के संयुक्त प्रभाव के अंतर्गत एक नई आवर्तकाल T₁ से परिक्रमा करता है, तो (T₁² - T₂²)/T₁² का मान है, [G गुरुत्वीय नियतांक है।]</question>\n<choices>\n(A) 3α/GM²r₀²\n(B) α/2GM²r₀²\n(C) α/GM²r₀²\n(D) 2α/GM²r₀²\n</choices>\n<image>no</image>\n<context>no</context>\n<category>physics</category>\n\n<question_num>Q.3</question_num>\n<question>परमाणु क्रमांक (atomic number) Z = 46 के धातु के एक लक्ष्य (target) पर उच्च ऊर्जा का एक इलेक्ट्रॉन पुंज प्रहार करता है। इस लक्ष्य से उत्सर्ज X-किरणों का विश्लेषण किया जाता है। इसमें Kα-रेखा तथा अंक (cut-off) तरंगदैर्घ्य का अनुपात r = 2 पाया जाता है। वही इलेक्ट्रॉन पुंज यदि Z = 41 की एक दूसरी धातु के लक्ष्य पर प्रहार करे, तो r का मान होगा</question>\n<choices>\n(A) 2.53\n(B) 1.27\n(C) 2.24\n(D) 1.58\n</choices>\n<image>no</image>\n<context>no</context>\n<category>chemistry</category>\n\n<question_num>Q.4</question_num>\n<question>विधुतरोधी परत चढ़े एक धातु के पत्तले एवं कड़े तार को मोड़कर एक वृत्ताकार वलय बनाया जाता है, जिसका दो सिरा बल्ब के दो एक पिंड से उसकी स्पर्श रेखीय दिशा में सीधे निकले हैं। इस वलय का द्रव्यमान m तथा त्रिज्या r है तथा यह एक ऊर्ध्वाधर दिशा में ऊपर की ओर एकसमान चुंबकीय क्षेत्र B₀ में चितांग्रस्त है। आरम्भ में यह तार दो ह्रद चालक संयोग, P और Q, पर गुरुत्वीय बल m के कारण ऊर्ध्वधर लटक रहा है। जब बल्ब में धारा I प्रवाहित की जाती है तो वलय, रेखा PQ के परितः नियतांक दिए कोण θ से घूम जाएगा</question>\n<choices>\n(A) tan θ = πrI/B₀(mg)\n(B) tan θ = 2πrI/B₀(mg)\n(C) tan θ = πrI/B₀(2mg)\n(D) tan θ = mg/(πrI/B₀)\n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>",
+        "question": "विधुतरोधी परत चढ़े एक धातु के पत्तले एवं कड़े तार को मोड़कर एक वृत्ताकार वलय बनाया जाता है, जिसका दो सिरा बल्ब के दो एक पिंड से उसकी स्पर्श रेखीय दिशा में सीधे निकले हैं। इस वलय का द्रव्यमान m तथा त्रिज्या r है तथा यह एक ऊर्ध्वाधर दिशा में ऊपर की ओर एकसमान चुंबकीय क्षेत्र B₀ में चितांग्रस्त है। आरम्भ में यह तार दो ह्रद चालक संयोग, P और Q, पर गुरुत्वीय बल m के कारण ऊर्ध्वधर लटक रहा है। जब बल्ब में धारा I प्रवाहित की जाती है तो वलय, रेखा PQ के परितः नियतांक दिए कोण θ से घूम जाएगा",
+        "options": [
+            "tan θ = πrI/B₀(mg)",
+            "tan θ = 2πrI/B₀(mg)",
+            "tan θ = πrI/B₀(2mg)",
+            "tan θ = mg/(πrI/B₀)"
+        ],
+        "answer": "",
+        "requires_image": "yes",
+        "context": "no",
+        "crops": [
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_12/crop_1.png",
+                "meta": "Q_4"
+            }
+        ]
+    }
+]

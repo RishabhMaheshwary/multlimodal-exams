@@ -1,0 +1,47 @@
+[
+    {
+        "language": "Hindi",
+        "country": "India",
+        "file_name": "JEEAdv2024_Paper2_Hindi",
+        "source": "https://jeeadv.ac.in/documents/JEEAdv2024_Paper2_Hindi.pdf",
+        "license": "",
+        "level": "high school",
+        "category_en": "physics",
+        "category_original_lang": null,
+        "region_related": false,
+        "original_question_idx": "Q.1",
+        "page_num": 9,
+        "response": "<question_num>Q.1</question_num>\n<question> \nx-y समतल में स्थित L ऊँचाई के एक समबाहु त्रिभुजाकार क्षेत्र के अन्दर, +z-दिशा में एकसमान चुंबकीय क्षेत्र B है। इसी x-y समतल पर उसी L ऊँचाई के एक समबाहु त्रिभुजाकार चालाक लूप PQR को रखा है जिसका P शीर्ष, चित्र में दिखाए गए अभिविन्यास के अनुसार, x = 0 पर है। समय t = 0 पर, लूप, +x-दिशा में एकसमान वेग v से चुंबकीय क्षेत्र में प्रवेश करना प्रारंभ करता है। इस गति के दौरान लूप का तल और अभिविन्यास (orientation) अपरिवर्तित रहते हैं। \n\nचित्र में से कौन सा ग्राफ, x = 0 से प्रारंभ करते हुए, लूप में उत्पन्न हुए विद्युत वाहक बल (E) का दूरी (x) के साथ फलन, सबसे उचित रूप में दर्शाता है?\n</question>\n<choices> \n(A) \n(B) \n(C) \n(D) \n</choices>\n<image>yes</image>\n<context>no</context>\n<category>physics</category>",
+        "question": " \nx-y समतल में स्थित L ऊँचाई के एक समबाहु त्रिभुजाकार क्षेत्र के अन्दर, +z-दिशा में एकसमान चुंबकीय क्षेत्र B है। इसी x-y समतल पर उसी L ऊँचाई के एक समबाहु त्रिभुजाकार चालाक लूप PQR को रखा है जिसका P शीर्ष, चित्र में दिखाए गए अभिविन्यास के अनुसार, x = 0 पर है। समय t = 0 पर, लूप, +x-दिशा में एकसमान वेग v से चुंबकीय क्षेत्र में प्रवेश करना प्रारंभ करता है। इस गति के दौरान लूप का तल और अभिविन्यास (orientation) अपरिवर्तित रहते हैं। \n\nचित्र में से कौन सा ग्राफ, x = 0 से प्रारंभ करते हुए, लूप में उत्पन्न हुए विद्युत वाहक बल (E) का दूरी (x) के साथ फलन, सबसे उचित रूप में दर्शाता है?\n",
+        "options": [],
+        "answer": "",
+        "requires_image": "yes",
+        "context": "no",
+        "crops": [
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_1.png",
+                "meta": "Q_1"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_2.png",
+                "meta": "O_1"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_3.png",
+                "meta": "O_1"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_4.png",
+                "meta": "O_1"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_5.png",
+                "meta": "skip"
+            },
+            {
+                "file": "./exams/JEE_Adv/2024/crops/JEEAdv2024_Paper2_Hindi_page_11/crop_6.png",
+                "meta": "O_1"
+            }
+        ]
+    }
+]
